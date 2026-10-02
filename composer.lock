@@ -14677,7 +14677,7 @@
         "ext-pdo_mysql": "*",
         "ext-zip": "*"
     },
-    "platform-dev": {},
+    "platform-dev": [],
     "platform-overrides": {
         "php": "8.3.0"
     },
